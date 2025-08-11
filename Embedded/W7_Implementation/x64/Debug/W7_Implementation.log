@@ -1,0 +1,4 @@
+﻿  W7_Implementation.c
+C:\Users\shinj\Desktop\3-1\EmbeddedDataStructure\Embedded\W7_Implementation\W7_Implementation.c(144,9): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\shinj\Desktop\3-1\EmbeddedDataStructure\Embedded\W7_Implementation\W7_Implementation.c(145,19): warning C4047: '==': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+  W7_Implementation.vcxproj -> C:\Users\shinj\Desktop\3-1\EmbeddedDataStructure\Embedded\x64\Debug\W7_Implementation.exe

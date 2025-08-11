@@ -1,0 +1,4 @@
+﻿insertnode.obj : error LNK2005: main이(가) filewrite.obj에 이미 정의되어 있습니다.
+ordered_jncert.obj : error LNK2005: insert_after이(가) insertnode.obj에 이미 정의되어 있습니다.
+ordered_jncert.obj : error LNK2005: main이(가) filewrite.obj에 이미 정의되어 있습니다.
+C:\Users\shinj\Desktop\3-1\EmbeddedDataStructure\Embedded\x64\Debug\W2.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
