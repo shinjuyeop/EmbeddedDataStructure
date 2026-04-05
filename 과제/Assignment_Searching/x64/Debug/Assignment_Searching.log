@@ -1,0 +1,5 @@
+﻿  Assignment_Searching.c
+C:\Users\shinj\Desktop\3-1\EmbeddedDataStructure\Embedded\Assignment_Searching\Assignment_Searching.c(67,31): warning C4133: '함수': 'int *'과(와) 'size_t *' 사이의 형식이 호환되지 않습니다.
+C:\Users\shinj\Desktop\3-1\EmbeddedDataStructure\Embedded\Assignment_Searching\Assignment_Searching.c(75,44): warning C4133: '함수': 'int *'과(와) 'size_t *' 사이의 형식이 호환되지 않습니다.
+C:\Users\shinj\Desktop\3-1\EmbeddedDataStructure\Embedded\Assignment_Searching\Assignment_Searching.c(77,33): warning C4133: '함수': 'int *'과(와) 'size_t *' 사이의 형식이 호환되지 않습니다.
+  Assignment_Searching.vcxproj -> C:\Users\shinj\Desktop\3-1\EmbeddedDataStructure\Embedded\x64\Debug\Assignment_Searching.exe
